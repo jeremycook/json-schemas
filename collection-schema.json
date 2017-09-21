@@ -3,10 +3,7 @@
   "type": "object",
   "allOf": [
     {
-      "$ref": "http://json-schema.org/draft-04/schema#",
-      "required": [
-        "title"
-      ]
+      "$ref": "http://json-schema.org/draft-04/schema#"
     },
     {
       "properties": {
