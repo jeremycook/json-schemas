@@ -23,6 +23,13 @@
             "standard",
             "unique"
           ]
+        },
+        "properties": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#"
+          },
+          "default": {}
         }
       },
       "required": [
