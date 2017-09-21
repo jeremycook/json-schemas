@@ -28,11 +28,7 @@
           },
           "default": {}
         }
-      },
-      "required": [
-        "title",
-        "titlePlural"
-      ]
+      }
     }
   ]
 }
